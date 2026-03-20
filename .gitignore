@@ -1,0 +1,32 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Env
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Expo / React Native
+.expo/
+.expo-shared/
+dist/
+web-build/
+
+# Build
+build/
+.next/
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# Uploads
+uploads/
